@@ -85,7 +85,18 @@ TESTING.md           manual testing checklist
 linuxdoom-1.10/      the (modified) id Software source
 wad/                 IWAD files live here (fetched/added, not tracked in git)
 LICENSE              GPLv2, matching id Software's original release
+
 ```
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=thatpicoder%2Flinuxdoom-64-bit&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=thatpicoder/linuxdoom-64-bit&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=thatpicoder/linuxdoom-64-bit&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=thatpicoder/linuxdoom-64-bit&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## License
 
