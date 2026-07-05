@@ -1,0 +1,6 @@
+linuxdoom-1.10/linux/
+wad/
+*.swp
+*~
+.DS_Store
+
